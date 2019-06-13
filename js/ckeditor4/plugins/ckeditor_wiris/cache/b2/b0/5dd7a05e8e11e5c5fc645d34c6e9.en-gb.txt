@@ -1,0 +1,1 @@
+{"result":{"text":"square root of x over y end root"},"status":"ok"}

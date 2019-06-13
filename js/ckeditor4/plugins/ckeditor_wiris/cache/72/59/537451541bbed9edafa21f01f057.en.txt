@@ -1,0 +1,1 @@
+{"result":{"text":"square root of sin 2 x end root"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"square root of cos 2 x end root"},"status":"ok"}

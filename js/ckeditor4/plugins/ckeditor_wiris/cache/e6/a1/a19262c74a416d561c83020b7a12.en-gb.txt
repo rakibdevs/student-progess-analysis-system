@@ -1,0 +1,1 @@
+{"result":{"text":"2 over 3 square root of d r d r y open vertical bar table row r g g k row h d h i end table close vertical bar end root"},"status":"ok"}

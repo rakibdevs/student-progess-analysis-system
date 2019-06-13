@@ -1,0 +1,1 @@
+{"result":{"text":"integral subscript 3 superscript 3 x squared d x"},"status":"ok"}
